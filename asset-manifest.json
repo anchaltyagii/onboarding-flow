@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/onboarding-flow/static/css/main.c3946bb3.css",
+    "main.js": "/onboarding-flow/static/js/main.60f9e301.js",
+    "static/js/787.8728319d.chunk.js": "/onboarding-flow/static/js/787.8728319d.chunk.js",
+    "static/media/blueleafIcon.png": "/onboarding-flow/static/media/blueleafIcon.84141b73e9ec0daa31bc.png",
+    "static/media/blueCircle.png": "/onboarding-flow/static/media/blueCircle.7fcd1e82d2055d93f822.png",
+    "index.html": "/onboarding-flow/index.html",
+    "main.c3946bb3.css.map": "/onboarding-flow/static/css/main.c3946bb3.css.map",
+    "main.60f9e301.js.map": "/onboarding-flow/static/js/main.60f9e301.js.map",
+    "787.8728319d.chunk.js.map": "/onboarding-flow/static/js/787.8728319d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3946bb3.css",
+    "static/js/main.60f9e301.js"
+  ]
+}
