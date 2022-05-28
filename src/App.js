@@ -6,7 +6,7 @@ import ProgressBar from '../src/components/ProgressBar/index';
 import helper from './Helper';
 import '../src/components/Button/index.scss';
 import LastScreen from '../src/components/LastScreen/index';
-import blueCircle from '../src/Assets/blueCircle.png';
+import blueCircle from '../src/Assets/Tick_image.png';
 import './App.scss';
 
 function App() {
@@ -38,7 +38,7 @@ const questLength = (e) => {
       <Button click = {questLength} content = {helper[questions].button}/>
       </div> : 
       <div className='main_container'>
-        <div><img style={{height: "70px", width: "70px", marginBottom: "50px"}} src={blueCircle} alt="blue Circle"/></div>
+        <div><img style={{height: "70px", width: "80px", marginBottom: "50px"}} src={blueCircle} alt="blue Circle"/></div>
         <Header header={helper[questions].header} subHeader={helper[questions].subHeader}/>
         <a href='https://dribbble.com/shots/15669113-Onboarding-Exploration/attachments/7464149?mode=media'><Button click = {questLength} content = {helper[questions].button}/></a>
       </div>
